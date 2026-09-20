@@ -48,7 +48,6 @@ Settings are in `include/config.h`
 ## Limits
 
 - This is an x64 build so it only works with 64-bit processes
-- Games protected by kernel anticheat (Vanguard, EAC, BattlEye etc) will block injection but unprotected games work fine
 
 ## Disclaimer
 
@@ -56,4 +55,4 @@ This is for educational purposes only. Injecting into processes you don't own ca
 
 ## License
 
-[MIT](LICENSE) © [YourPOV](https://github.com/yourpov)
+[MIT](LICENSE) © [YourPOV](https://github.com/yourpovv)
